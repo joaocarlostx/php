@@ -1,0 +1,13 @@
+{
+    "name": "roiso/vendas",
+    "authors": [
+        {
+            "name": "roi"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "chillerlan/php-qrcode": "dev-main#<commit_hash>",
+        "dompdf/dompdf": "^2.0"
+    }
+}
